@@ -20,3 +20,4 @@ q4<-read_excel(path = "Aurelia_SEAMAP_2012-2018_30minCell.xlsx")
 q4
 head(q4)
 str(q4)
+summary(q4)
